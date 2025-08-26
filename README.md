@@ -32,3 +32,18 @@ Parsing (Grammar Implementation)
 
 Follows a grammar for arithmetic expressions:
 <img width="246" height="136" alt="Image" src="https://github.com/user-attachments/assets/949cc895-11f5-4a64-b7e4-260be093466f" />
+Uses recursive descent parsing to handle operator precedence and parentheses.
+
+Evaluation
+
+After parsing, directly evaluates the expression.
+
+Example: Input → 3 + 5 * 2 → Output → 13.
+
+Error Handling
+
+Detects invalid expressions (e.g., unmatched parentheses, invalid tokens).
+
+## OUTPUT
+
+<img width="472" height="681" alt="Image" src="https://github.com/user-attachments/assets/a9865b9e-52df-45be-bff6-1abf33eba0a7" />

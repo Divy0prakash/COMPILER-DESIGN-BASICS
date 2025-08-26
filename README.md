@@ -31,6 +31,4 @@ Example: "3 + 5" → {NUM(3), PLUS, NUM(5)}.
 Parsing (Grammar Implementation)
 
 Follows a grammar for arithmetic expressions:
-
-<img width="472" height="681" alt="Image" src="https://github.com/user-attachments/assets/a9865b9e-52df-45be-bff6-1abf33eba0a7" />
 <img width="246" height="136" alt="Image" src="https://github.com/user-attachments/assets/949cc895-11f5-4a64-b7e4-260be093466f" />
